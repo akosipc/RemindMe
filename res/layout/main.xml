@@ -13,4 +13,9 @@
 			android:text="@string/button_send"
 			android:layout_gravity="right"
 			android:onClick="addTask" />
+	<ListView android:id="@+id/taskList"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_weight="1.0" />
 </LinearLayout>
