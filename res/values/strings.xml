@@ -5,4 +5,10 @@
     <string name="title">Name of task</string>
     <string name="button_send">Save</string>
     <string name="body">Details here!</string>
+    <string-array name="priority">
+    	<item>High</item>
+    	<item>Medium</item>
+    	<item>Low</item>
+    	<item>None</item>
+    </string-array>
 </resources>
